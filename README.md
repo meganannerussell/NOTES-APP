@@ -1,4 +1,4 @@
-# NOTES APP CODE
+# Notes App Code
 
 [Notes App Frontend](https://github.com/meganannerussell/notes-app-frontend)
 
